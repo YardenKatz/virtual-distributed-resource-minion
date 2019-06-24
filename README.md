@@ -1,0 +1,1 @@
+# virtual-distributed-resource-minion
